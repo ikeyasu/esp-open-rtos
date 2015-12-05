@@ -1,0 +1,18 @@
+/*
+ * Copyright 2015 ikeyasu.com. All Rights Reserved.
+ */
+
+const char *AWS_IOT_ROOT_CA = "-----BEGIN CERTIFICATE-----\r\n"
+"Please paste PEM file here\r\n"
+"Note that you need to add line feed code at the end of lines\r\n"
+"-----END CERTIFICATE-----\r\n";
+
+const char *AWS_IOT_CERTIFICATE = "-----BEGIN CERTIFICATE-----\r\n"
+"Please paste PEM file here\r\n"
+"Note that you need to add line feed code at the end of lines\r\n"
+"-----END CERTIFICATE-----\r\n";
+
+const char *AWS_IOT_PRIVATE_KEY = "-----BEGIN RSA PRIVATE KEY-----\r\n"
+"Please paste PEM file here\r\n"
+"Note that you need to add line feed code at the end of lines\r\n"
+"-----END RSA PRIVATE KEY-----\r\n";

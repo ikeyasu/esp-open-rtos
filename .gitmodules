@@ -4,3 +4,6 @@
 [submodule "extras/mbedtls/mbedtls"]
 	path = extras/mbedtls/mbedtls
 	url = https://github.com/ARMmbed/mbedtls.git
+[submodule "extras/aws_iot/aws-iot-device-sdk-embedded-C"]
+	path = extras/aws_iot/aws-iot-device-sdk-embedded-C
+	url = https://github.com/ikeyasu/aws-iot-device-sdk-embedded-C.git
